@@ -1,0 +1,6 @@
+{
+  "name": "صندوقي",
+  "description": "إدارة الميزانية العائلية والديون والأهداف وورشة الخياطة بدون إنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
